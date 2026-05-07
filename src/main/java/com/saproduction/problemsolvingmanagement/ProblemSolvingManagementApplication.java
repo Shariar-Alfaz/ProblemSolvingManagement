@@ -1,4 +1,4 @@
-package com.saproduction.ProblemSolvingManagement;
+package com.saproduction.problemsolvingmanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class ProblemSolvingManagementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ProblemSolvingManagementApplication.class, args);
 	}
-
 }

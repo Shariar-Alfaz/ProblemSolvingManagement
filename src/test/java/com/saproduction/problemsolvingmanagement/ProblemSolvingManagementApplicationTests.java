@@ -1,4 +1,4 @@
-package com.saproduction.ProblemSolvingManagement;
+package com.saproduction.problemsolvingmanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
